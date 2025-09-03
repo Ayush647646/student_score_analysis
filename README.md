@@ -81,18 +81,18 @@ Comparison of transport means with academic performance.
 📌 How to Run This Project
 
 1. Clone the repository:
-   git clone [https://github.com/your-username/student-score-analysis.git](https://github.com/Ayush647646/student_score_analysis)
-   cd student-score-analysis
+   - git clone [https://github.com/your-username/student-score-analysis.git](https://github.com/Ayush647646/student_score_analysis)
+   - cd student-score-analysis
    
 2. Create virtual environment & activate it:
-   python3 -m venv venv
-   source venv/bin/activate   # Mac/Linux
-   venv\Scripts\activate      # Windows
+   - python3 -m venv venv
+   - source venv/bin/activate   # Mac/Linux
+   - venv\Scripts\activate      # Windows
 
 3. Install dependencies:
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 4. Run Jupyter Notebook:
-   jupyter lab
+   - jupyter lab
 
 5. Open student_score_analysis.ipynb and run the cells.
