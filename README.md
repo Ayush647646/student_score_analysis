@@ -81,7 +81,7 @@ Comparison of transport means with academic performance.
 📌 How to Run This Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/student-score-analysis.git
+   git clone [https://github.com/your-username/student-score-analysis.git](https://github.com/Ayush647646/student_score_analysis)
    cd student-score-analysis
    
 2. Create virtual environment & activate it:
